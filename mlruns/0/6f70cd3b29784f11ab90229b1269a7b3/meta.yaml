@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/END%20TO%20END%20PROJECT%20KRSIH%20NAIK/mlruns/0/6f70cd3b29784f11ab90229b1269a7b3/artifacts
+end_time: 1709619620954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f70cd3b29784f11ab90229b1269a7b3
+run_name: luminous-sponge-521
+run_uuid: 6f70cd3b29784f11ab90229b1269a7b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709619582945
+status: 3
+tags: []
+user_id: root
